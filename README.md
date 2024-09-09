@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a student at Tufts University. 
+I'm interested in sustainable cities and infrastructure! 
 
 <!--
 **lliu990/lliu990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
